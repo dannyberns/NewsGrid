@@ -4,7 +4,7 @@ NewsGrid website
 
 
 ## Links
-https://dannyberns.github.io/EdgeLedger/
+https://dannyberns.github.io/NewsGrid/
 
 
 ## Screenshots
